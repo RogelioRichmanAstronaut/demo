@@ -1,0 +1,37 @@
+{
+    "TituloYSubtitulo":{
+        "1": "Qanqa chunkayuqmi kanki",
+             "2": "matemática"
+    },
+    "tiempo":{
+        "1": "qhaway",
+             "2": "1 semana ñawpaqta",
+             "3": "2 semanas ñawpaqta",
+             "4": "ñuqa"
+    },
+    "Card":{
+        "1": "Qhaway claseyta kawsaqta",
+             "2": "Qillqasqata qhaway"
+    },
+    "Minicard1":{
+        "1": "Teorema Pitagórico",
+             "2": "Yupayta churay",
+             "3": "1b yupaypa hukllanakuynin",
+             "4": "2x2 diferencial ecuación"
+    },
+    "Sidebar":{
+        "0": "pisi",
+              "1": "matemática",
+              "2":"Inglés/Kastilla simi",
+              "3": "Ciencia",
+              "4":"artista",
+              "5": "Religión"
+    },
+    "Sidebar2":{
+        "0": "kategoria",
+             "1":"notasniy",
+             "2":"cuaderno",
+             "3":"llamk'ay",
+             "4": "amigo"
+    }
+}

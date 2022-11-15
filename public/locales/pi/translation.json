@@ -1,0 +1,37 @@
+{
+    "TituloYSubtitulo":{
+        "1": "Ou nan dizyèm plas",
+          "2": "Matematik"
+    },
+    "tiempo":{
+        "1": "wè",
+          "2": "1 semèn de sa",
+          "3": "2 semèn de sa",
+          "4": "min"
+    },
+    "Card":{
+        "1": "Gade klas mwen an an dirèk",
+          "2": "Gade anrejistreman yo"
+    },
+    "Minicard1":{
+        "1": "Teyorèm Pitagò",
+          "2": "Aplike kalkil",
+          "3": "Kalkil 1B: Entegrasyon",
+          "4": "2x2 Ekwasyon Diferans"
+    },
+    "Sidebar":{
+        "0":"mwens",
+           "1": "Matematik",
+           "2":"Angle/Panyòl",
+           "3":"Syans",
+           "4":"Atis",
+           "5":"Relijyon"
+    },
+    "Sidebar2":{
+        "0":"kategori",
+          "1":"Nòt mwen yo",
+          "2":"Kaye",
+          "3":"Travay",
+          "4":"Kamarad"
+    }
+}

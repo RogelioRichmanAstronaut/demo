@@ -1,0 +1,37 @@
+{
+    "TituloYSubtitulo":{
+        "1" : "Estás en grado décimo",
+        "2": "Matemáticas"
+    },
+    "tiempo":{
+        "1" : "vistas",
+        "2" : "hace 1 semana",
+        "3": "hace 2 semanas",
+        "4": "min"
+    },
+    "Card":{
+        "1" : "Ver mi clase en vivo",
+        "2": "Ver grabaciones"
+    },
+    "Minicard1":{
+        "1" : "Teorema de Pitágoras",
+        "2": "Cálculo aplicado",
+        "3": "Cálculo 1B: Integración",
+        "4": "Ecuaciones diferenciales 2x2"
+    },
+    "Sidebar":{
+        "0":"MENU",
+        "1":"Matemáticas",
+        "2":"Inglés/Español",
+        "3":"Ciencias",
+        "4":"Artes",
+        "5":"Religión"
+    },
+    "Sidebar2":{
+        "0":"CATEGORÍA",
+        "1":"Mis notas",
+        "2":"Cuaderno",
+        "3":"Tareas",
+        "4":"Compañeros"
+    }
+}

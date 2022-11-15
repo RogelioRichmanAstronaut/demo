@@ -1,0 +1,37 @@
+{
+    "TituloYSubtitulo":{
+        "1" : "Sì in decima prima",
+         "2": "Matimàtica"
+    },
+    "tiempo":{
+        "1" : "vista",
+         "2" : "1 settimana fà",
+         "3": "2 settimane fà",
+         "4": "min"
+    },
+    "Card":{
+        "1" : "Fighjate a mo classa in diretta",
+         "2": "Vede e registrazioni"
+    },
+    "Minicard1":{
+        "1" : "Teorema di Pitagora",
+         "2": "Càlculu appiicatu",
+         "3": "Calculu 1B: Integrazione",
+         "4": "Equazioni differenziali 2x2"
+    },
+    "Sidebar":{
+        "0":"menu",
+          "1":"Matimàtica",
+          "2":"Inglese/Spagnolu",
+          "3":"Scienza",
+          "4":"Arty",
+          "5":"Religione"
+    },
+    "Sidebar2":{
+        "0":"categuria",
+         "1":"I mo note",
+         "2":"Quaderno",
+         "3":"Tasks",
+         "4":"Camrades"
+    }
+}

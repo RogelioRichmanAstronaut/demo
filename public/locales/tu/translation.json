@@ -1,0 +1,37 @@
+{
+    "TituloYSubtitulo":{
+        "1": "Jūs esate dešimtukas",
+            "2": "matematika"
+    },
+    "tiempo":{
+        "1": "žiūrėti",
+            "2": "Prieš 1 savaitę",
+            "3": "Prieš 2 savaites",
+            "4": "mano"
+    },
+    "Card":{
+        "1": "Žiūrėkite mano klasę tiesiogiai",
+            "2": "Peržiūrėti įrašą"
+    },
+    "Minicard1":{
+        "1": "Pitagoro teorema",
+            "2": "Taikyti skaičiavimą",
+            "3": "1b skaičiavimo integravimas",
+            "4": "2x2 diferencialinė lygtis"
+    },
+    "Sidebar":{
+        "0": "žemas",
+             "1": "matematika",
+             "2":"anglų/ispanų k.",
+             "3": "Mokslas",
+             "4":"menininkas",
+             "5": "Religija"
+    },
+    "Sidebar2":{
+        "0": "kategorija",
+            "1":"mano užrašai",
+            "2":"užrašų knygelė",
+            "3":"darbas",
+            "4": "draugas"
+    }
+}

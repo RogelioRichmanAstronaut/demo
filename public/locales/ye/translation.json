@@ -1,0 +1,37 @@
+{
+    "TituloYSubtitulo":{
+        "1": "Ufite imyaka icumi",
+              "2": "imibare"
+    },
+    "tiempo":{
+        "1": "kureba",
+              "2": "Icyumweru gishize",
+              "3": "Ibyumweru 2 bishize",
+              "4": "Njye"
+    },
+    "Card":{
+        "1": "Reba ishuri ryanjye imbonankubone",
+              "2": "Reba inyandiko"
+    },
+    "Minicard1":{
+        "1": "Theorem ya Pythagorean",
+              "2": "Injiza umubare",
+              "3": "Guhuza umubare 1b",
+              "4": "Ikigereranyo cya 2x2 gitandukanye"
+    },
+    "Sidebar":{
+        "0": "hasi",
+               "1": "imibare",
+               "2": "Icyongereza / Icyesipanyoli",
+               "3": "Ubumenyi",
+               "4": "umuhanzi",
+               "5": "Iyobokamana"
+    },
+    "Sidebar2":{
+        "0": "icyiciro",
+              "1": "inyandiko zanjye",
+              "2": "ikaye",
+              "3": "akazi",
+              "4": "inshuti"
+    }
+}
