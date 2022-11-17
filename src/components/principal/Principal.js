@@ -70,7 +70,7 @@ const Principal = () => {
        <div class="video-time">8 {t('tiempo.4')}</div>
        <div class="video-wrapper">
         <video muted="">
-         <source src="https://player.vimeo.com/external/436572488.sd.mp4?s=eae5fb490e214deb9ff532dd98d101efe94e7a8b&profile_id=139&oauth2_token_id=57447761" type="video/mp4" />
+         <source src="https://player.vimeo.com/external/451776712.sd.mp4?s=ac226cff1e9acceb6fcd365cbe0b4a8e0ffd2532&profile_id=164&oauth2_token_id=57447761" type="video/mp4" />
         </video>
         <div class="author-img__wrapper video-author">
          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check">
@@ -87,7 +87,7 @@ const Principal = () => {
        <div class="video-time">5 {t('tiempo.4')}</div>
        <div class="video-wrapper">
         <video muted="">
-         <source src="https://player.vimeo.com/external/449972745.sd.mp4?s=9943177fe8a6147b7bc4598259401f06ec57878a&profile_id=139&oauth2_token_id=57447761" type="video/mp4" />
+         <source src="https://player.vimeo.com/external/371845084.sd.mp4?s=eae59a0d9f2cda8dab512407520993596664d210&profile_id=164&oauth2_token_id=57447761" type="video/mp4" />
         </video>
         <div class="author-img__wrapper video-author">
          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check">
@@ -104,7 +104,7 @@ const Principal = () => {
        <div class="video-time">7 min</div>
        <div class="video-wrapper">
         <video muted="">
-         <source src="https://player.vimeo.com/external/436553499.sd.mp4?s=0e44527f269278743db448761e35c5e39cfaa52c&profile_id=139&oauth2_token_id=57447761" type="video/mp4" />
+         <source src="https://player.vimeo.com/external/558686594.sd.mp4?s=7031b5db56c73e6cf8ccd498dbff75f6ecaf4476&profile_id=164&oauth2_token_id=57447761" type="video/mp4" />
         </video>
         <div class="author-img__wrapper video-author">
          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check">
@@ -121,7 +121,7 @@ const Principal = () => {
        <div class="video-time">6 {t('tiempo.4')}</div>
        <div class="video-wrapper">
         <video muted="">
-         <source src="https://player.vimeo.com/external/361861493.sd.mp4?s=19d8275ca755d653042a87ef28b2f0b2eabf57d0&profile_id=139&oauth2_token_id=57447761" type="video/mp4" />
+         <source src="https://player.vimeo.com/external/491830543.sd.mp4?s=18ecaa07ef07132e28298da82b2b70d3a8663b62&profile_id=164&oauth2_token_id=57447761" type="video/mp4" />
         </video>
         <div class="author-img__wrapper video-author">
          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="feather feather-check">

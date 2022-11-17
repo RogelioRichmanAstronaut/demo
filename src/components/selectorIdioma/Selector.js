@@ -12,7 +12,7 @@ const Selector = () => {
     <div className='principali'>
         <div className='contenedor'>
             <h1>
-                DEMO VAUPES
+                DEMO VAUPÉS
             </h1>
             <h3> SELECCIONA UN IDIOMA</h3>
             <div className='navigation'>
